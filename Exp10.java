@@ -56,7 +56,7 @@ public class Exp10 {
 
         CurrentAccount ca = new CurrentAccount(102, "Anita", 20000);
 
-        System.out.println("----- Savings Account -----");
+        System.out.println("----- Saving Account -----");
 
         sa.deposit(2000);
         sa.displayDetails();
