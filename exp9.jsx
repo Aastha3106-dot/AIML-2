@@ -47,7 +47,7 @@ function Exp9() {
       <p>Password: {password}</p>
 
       <button onClick={showData}>
-        Submit
+        Submi
       </button>
     </>
   )
