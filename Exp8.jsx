@@ -4,7 +4,7 @@ import './App.css'
 function Exp8() {
   const [count, setCount] = useState(0)
 
-  const increment= () => {
+  const increment = () => {
     setCount(count + 1)
   }
 
