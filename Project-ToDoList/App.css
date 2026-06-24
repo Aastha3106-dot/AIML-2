@@ -1,0 +1,52 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.dark {
+  background: #111;
+  color: white;
+  min-height: 100vh;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #333;
+  color: white;
+}
+
+.container {
+  padding: 20px;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+.dashboard {
+  display: flex;
+  gap: 20px;
+}
+
+.progress {
+  background: #ddd;
+  height: 20px;
+  margin: 10px 0;
+}
+
+.bar {
+  height: 20px;
+  background: green;
+}
